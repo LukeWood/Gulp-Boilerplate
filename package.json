@@ -1,0 +1,33 @@
+{
+  "name": "hw1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "css-declaration-sorter": "^2.1.0",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-connect": "^5.0.0",
+    "gulp-csscomb": "^3.0.8",
+    "gulp-csslint": "^1.0.0",
+    "gulp-eslint": "^4.0.0",
+    "gulp-open": "^2.0.0",
+    "gulp-postcss": "^7.0.0",
+    "postcss-sort-alphabetically": "^1.1.1",
+    "postcss-sorting": "^3.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LukeWood/gui-homework-1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LukeWood/gui-homework-1/issues"
+  },
+  "homepage": "https://github.com/LukeWood/gui-homework-1#readme"
+}
